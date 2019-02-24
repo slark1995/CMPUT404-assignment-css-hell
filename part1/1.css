@@ -1,0 +1,26 @@
+body {background-color: #FFFFCC;}
+
+
+p {
+	color:#36648B;
+	font-family: Georgia;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Serif;
+	font-weight:bold;
+	font-style:italic;
+}
+
+
+img {
+	-webkit-filter: grayscale(80%); /* Chrome, Safari, Opera */
+	filter: grayscale(80%);
+	border-radius: 15px;
+}
+
+
+.center_caption{
+	color:#FF34B3;
+}

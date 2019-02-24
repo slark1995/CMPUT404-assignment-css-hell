@@ -1,0 +1,100 @@
+head{
+  margin-top: 15px;
+  margin-left: 25px;
+
+}
+
+body{
+	background-color:white;
+}
+
+
+
+#navigation_block
+{
+  margin-left: 50px;
+  margin-right:50px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  background-color: #CAE1FF;
+  
+ 
+}
+
+
+#page_title{
+  font-size: 25px;
+  font-family: Georgia;
+  line-height: 38px
+
+}
+
+a{
+  margin-right: 60px;
+  font-size: 20px;
+}
+
+.side_bar {
+  height: 500px;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 83%;
+  background-color: #BABABA;
+  position: absolute;
+  z-index: 1;
+  text-align:center;
+  font-size: 15px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color: #1E90FF;
+  font-size: 35px;
+  font-family: Georgia
+}
+
+.main
+{ 
+  margin-left: 50px;
+  margin-right: 300px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  display: block;
+  text-align: left;
+}
+
+.main p{
+  font-size: 18px;
+  line-height: 35px;
+}
+
+#About_me img{
+  float:left;
+  z-index: 1;
+  border-radius:50%;
+}
+
+#About_me p{
+  display: block;
+  position: relative;
+  margin-left: 25%;
+  margin-top: 15%;
+}
+
+#Professional_History{
+  margin-top: 145px;
+}
+
+#Professional_History p{
+  
+  }
+
+#Professional_History img{
+  float: right;
+  margin-left:15px;
+
+}
+
+
+#Skills{
+  margin-top: 80px;
+}
