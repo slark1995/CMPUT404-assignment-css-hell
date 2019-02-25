@@ -2,10 +2,11 @@ head{
   margin-top: 15px;
   margin-left: 25px;
 
+
 }
 
 body{
-	background-color:white;
+	background-color:#E0EEEE;
 }
 
 
@@ -16,17 +17,17 @@ body{
   margin-right:50px;
   margin-top: 20px;
   margin-bottom:20px;
-  background-color: #CAE1FF;
-  
+  background-image: url('image/title.jpeg');
+  background-size:12%;
  
 }
 
 
-#page_title{
+
+#page_title p{
   font-size: 25px;
   font-family: Georgia;
-  line-height: 38px
-
+  line-height: 38px;
 }
 
 a{
@@ -39,7 +40,7 @@ a{
   width: 200px;
   margin-top: 30px;
   margin-left: 83%;
-  background-color: #BABABA;
+  background-color: #FAFAD2;
   position: absolute;
   z-index: 1;
   text-align:center;
@@ -98,3 +99,13 @@ h1,h2,h3,h4,h5,h6{
 #Skills{
   margin-top: 80px;
 }
+
+#Skills img{
+  margin-right:20px;
+  float:left;
+}
+
+#Skills p{
+  display: block;
+}
+
